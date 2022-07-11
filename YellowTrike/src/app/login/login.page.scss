@@ -1,0 +1,39 @@
+ion-content{
+  --background: linear-gradient(0deg, #ffba4c, #FFF0D8);
+  font-family: Montserrat Medium;
+  margin-bottom: 0px;
+
+}
+h1{
+  font-weight: 1000 ;
+  font-size: 29px;
+}
+
+.welcome-back{
+  font-size: 15px;
+}
+ion-input{
+  --background: white;
+  border-radius: 5px;
+
+
+}
+.password{
+  margin-top:18px;
+
+}
+
+ion-button{
+  --background: #ffba4c;
+  width:100%;
+  border-radius: px;
+
+}
+.register-login{
+  margin-top: 85px;
+}
+
+.links{
+  color:#ffba4c;
+  text-decoration:none;
+}
